@@ -1,1 +1,1 @@
-Esta es un modificacion
+Esta es un modificacion en el manual 
